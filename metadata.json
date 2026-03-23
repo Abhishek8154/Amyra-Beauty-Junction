@@ -1,0 +1,5 @@
+{
+  "name": "Amyra Beauty Junction",
+  "description": "Premium beauty salon in Bhopal offering hair styling, coloring, spa, and bridal makeup services.",
+  "requestFramePermissions": ["geolocation"]
+}
